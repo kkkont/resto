@@ -12,8 +12,13 @@ This Java Object-Oriented Programming project simulates restaurant experience us
 ## How to Use
 To run the project, simply start the Kasutajaliides.java class located in src/main/java/com/resto/.
 1. Run the 'Kasutajaliides.java' class
-2. You can make changes to menu in the "src/main/resources/com/resto/menu.txt" file.
-3. You can see the bill in the "src/main/resources/com/resto/tšekk.txt" file.
+   OR
+   Run this command
+   ```
+   ./gradlew run
+   ```
+3. You can make changes to menu in the "src/main/resources/com/resto/menu.txt" file.
+4. You can see the bill in the "src/main/resources/com/resto/tšekk.txt" file.
 
 ### Notes
 
