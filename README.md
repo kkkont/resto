@@ -11,9 +11,8 @@ This Java Object-Oriented Programming project simulates restaurant experience us
 
 ## How to Use
 To run the project, simply start the Kasutajaliides.java class located in src/main/java/com/resto/.
-1. Run the 'Kasutajaliides.java' class
-   OR
-   Run this command
+1. Run the 'Kasutajaliides.java' class **OR**
+   run this command
    ```
    ./gradlew run
    ```
