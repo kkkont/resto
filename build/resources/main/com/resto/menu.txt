@@ -1,0 +1,12 @@
+Caesari_salat;E;13
+Tartar;E;20
+Täidetud_muna;E;5.95
+Part;P;20
+Kana;P;15
+Lõhe;P;18.5
+Jäätis;M;3;
+Puuviljasalat;M;6
+Tiramisu;M;9
+Piim;J;1
+Vein;J;13;Alkohol
+Aperol_Spritz;J;15;Alkohol
