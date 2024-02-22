@@ -19,3 +19,6 @@ To run the project, simply start the Kasutajaliides.java class located in src/ma
 
 - The application is in Estonian, including prompts and messages.
 - The identification code for age verification is also Estonian and is expected to be 11 characters long.
+
+### Project Contributors
+This project was developed by Kadri-Ketter Kont and Roberta Solom.
